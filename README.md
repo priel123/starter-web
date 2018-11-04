@@ -13,3 +13,7 @@ This is the deployment text
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## Copyright 
+
+2018

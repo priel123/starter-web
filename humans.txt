@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Priel Shmukler pshmukler@allot.com @awesome
 
 # THANKS
 

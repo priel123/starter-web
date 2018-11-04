@@ -9,6 +9,7 @@ More text
 ## Deployment
 This is the deployment text
 
+## How To Contribute
 
 ## Purpose
 

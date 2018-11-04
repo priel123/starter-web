@@ -2,6 +2,8 @@
 
 This repository is for showing how Git and GitHub work
 
+## Introduction
+
 ## Deployment
 This is the deployment text
 
